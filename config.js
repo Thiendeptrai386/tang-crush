@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Anh Thiện........',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Yêu tiểu thư 😘',
-    btnAccept: 'iu iu iu 😘😘<3',
+    btnAccept: 'iu anh 😘😘<3',
     messLink: 'https://www.facebook.com/profile.php?id=100073415177421'
 }
